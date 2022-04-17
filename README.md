@@ -1,1 +1,2 @@
 # catppucchin-rice-bullshit
+rice
